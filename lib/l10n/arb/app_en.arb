@@ -3,5 +3,9 @@
     "counterAppBarTitle": "Counter",
     "@counterAppBarTitle": {
         "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "loginScreenTitle": "LoginScreen",
+    "@loginScreenTitle": {
+        "description": "Welcome back! Please enter your registered email address to continue"
     }
 }
