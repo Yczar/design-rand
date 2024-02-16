@@ -14,7 +14,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   hive: ^2.2.3
-  http: ^1.2.0
+  http: ^1.2.1
   intl: ^0.18.0
   meta: ^1.11.0
   path_provider: ^2.1.2
